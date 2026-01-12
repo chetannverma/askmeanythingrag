@@ -242,21 +242,7 @@ Ensure MongoDB is running locally and `.env` is configured.
 ---
 
 
-## 11. Demo Video Guidelines
-
-The demo video demonstrates:
-
-1. A normal yoga-related query
-2. An unsafe health-related query
-3. Source attribution
-4. MongoDB logs
-5. Safety warning behavior
-
-Duration: **2–5 minutes**
-
----
-
-## 12. AI Tools & Prompts
+## 11. AI Tools & Prompts
 
 If any AI-assisted IDE or tool is used, all prompts and usage details must be documented here for transparency and evaluation.
 
