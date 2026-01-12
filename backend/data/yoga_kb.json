@@ -1,0 +1,46 @@
+[
+  {
+    "id": "article_1",
+    "title": "Shavasana (Corpse Pose)",
+    "level": "beginner",
+    "content": {
+      "description": "Shavasana is a resting pose practiced at the end of yoga sessions to promote deep relaxation.",
+      "benefits": "It calms the nervous system, reduces stress, and helps integrate the benefits of the practice.",
+      "contraindications": "People with lower back discomfort may need support under the knees.",
+      "practice_tips": "Lie flat on your back with arms relaxed and eyes closed. Focus on natural breathing."
+    }
+  },
+  {
+    "id": "article_2",
+    "title": "Bhujangasana (Cobra Pose)",
+    "level": "beginner",
+    "content": {
+      "description": "Bhujangasana is a gentle backbend that strengthens the spine and opens the chest.",
+      "benefits": "Improves spinal flexibility and may help relieve mild back stiffness.",
+      "contraindications": "Avoid deep practice during pregnancy or recent abdominal surgery.",
+      "practice_tips": "Keep elbows slightly bent and avoid locking the lower back."
+    }
+  },
+  {
+    "id": "article_3",
+    "title": "Adho Mukha Svanasana (Downward Dog)",
+    "level": "beginner",
+    "content": {
+      "description": "A foundational pose that forms an inverted V-shape with the body.",
+      "benefits": "Strengthens the arms and legs while gently stretching the spine.",
+      "contraindications": "People with wrist pain or high blood pressure should modify the pose.",
+      "practice_tips": "Distribute weight evenly through hands and feet, keeping the neck relaxed."
+    }
+  },
+  {
+    "id": "article_4",
+    "title": "Pranayama (Breathing Practices)",
+    "level": "all",
+    "content": {
+      "description": "Pranayama involves controlled breathing techniques used to regulate energy and calm the mind.",
+      "benefits": "May improve focus, reduce stress, and enhance lung awareness.",
+      "contraindications": "Certain techniques should be avoided by individuals with respiratory or cardiac conditions.",
+      "practice_tips": "Practice slowly and gently, preferably under guidance if you are new."
+    }
+  }
+]
